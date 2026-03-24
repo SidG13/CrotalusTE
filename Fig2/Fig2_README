@@ -1,0 +1,6 @@
+Fig2A: Cviridis scMultiome SCENIC+ eRegulons; made using Cytoscape
+Fig2B: UMAPs of gene expression and eRegulon activity; made using R
+Fig2C: SVSP regulation network; made using StringDB and Cytoscape
+
+These scripts use the following files found on Zenodo:
+	Cvv_3VG_Merged_postClustering_renamedGenes.rds

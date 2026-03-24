@@ -1,0 +1,12 @@
+Fig3A: Barplots of presence/occupancy at pre-wired TFBSs; made using R
+Fig3B: Barplots of chromatin state at pioneer-bound hAT-Tip100s in different tissues; made using R
+
+These scripts use the following files found on Zenodo:
+	CV1228_12_744009854merged_S1_L001_R1_001.trim.srt.nodup.no_chrM_MT.tn5.pval0.01.300K.sorted.bed
+	CV1298_5_744009852merged_S1_L001_R1_001.trim.srt.nodup.no_chrM_MT.tn5.pval0.01.300K.sorted.bed
+	CV1298_6_744009853merged_S1_L001_R1_001.trim.srt.nodup.no_chrM_MT.tn5.pval0.01.300K.sorted.bed
+	CV1308_5_744009855merged_S1_L001_R1_001.trim.srt.nodup.no_chrM_MT.tn5.pval0.01.300K.sorted.bed
+	CV1308_6_744009856merged_S1_L001_R1_001.trim.srt.nodup.no_chrM_MT.tn5.pval0.01.300K.sorted.bed
+	CV1308_12_744009857merged_S1_L001_R1_001.trim.srt.nodup.no_chrM_MT.tn5.pval0.01.300K.sorted.bed
+	HiDepth_3Atrox_mergedPeaks_trim.srt.nodup.no_chrM_MT.tn5.pval0.01.300K.bedtools-merge-100.sorted.bed
+	HiDepth_3Viridis_mergedPeaks_trim.srt.nodup.no_chrM_MT.tn5.pval0.01.300K.bedtools-merge-100.sorted.bed

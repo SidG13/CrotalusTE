@@ -1,0 +1,10 @@
+Fig1A: Annotated tree of Cviridis + Catrox hAT-Tip100s; made using R
+Fig1B: Barplots of CRE overlaps with hAT-Tip100s; made using R
+Fig1C: Read density plots of functional data; made using plotHeatmap ('deeptools')
+Fig1D: Functional overview of SVSP clusters; made using R
+
+These scripts use the following files found on Zenodo:
+	CroVir_rnd1.all.maker.final.homologIDs.updatedNov2019_with_myos_geneidmod.gtf
+	{CV1297,CV1298,CV1299}*scaleFactorNorm.bw
+	croAtr2_ragtag_scaffold_REHEADER_withToxins_noDashes_10.09.24_MT_manualedits_namesMod.sorted.gtf
+	{CV1308,CV1311,CV1312}*scaleFactorNorm.bw

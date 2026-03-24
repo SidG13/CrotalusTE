@@ -1,0 +1,11 @@
+Fig4A: Barplots of presence/occupancy at re-wired TFBSs; made using R
+Fig4B1: SIM mapping of re-wired TFBSs (individual TFBSs); made using R
+Fig4B1: SIM mapping of re-wired TFBSs (TFBSs grouped by TF, binary); made using R
+Fig4C: Linear correlations between occupancy at re-wired sites and gene expression; made using R
+Fig4D: SIM mapping of pre-wired TFBSs (TFBSs grouped by TF, quantitative); made using R
+
+
+These scripts use the following files found on Zenodo:
+	simmaps_21rewired_TFBSs_for_rewiring_x100_reps.rds
+	simmaps_11rewired_TFs_BINARY_for_rewiring_x100_reps.rds
+	simmaps_13prewired_TFs_QUANTITATIVE_for_unwiring_x100_reps.rds
